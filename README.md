@@ -12,7 +12,7 @@ Moreover, this connectivity solution played a pivotal role during our penetratio
 To utilize this project effectively, follow these steps:
 
 1. **Installation**: Clone this repository to your local machine.
-```bash git clone https://github.com/Roondel/ssm-port-forwarding-project.git```
+```git clone https://github.com/Roondel/ssm-port-forwarding-project.git```
 
 2. **Configuration**: Adjust configurations such as AWS credentials and database settings as per your environment.
 
