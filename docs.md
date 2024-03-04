@@ -10,5 +10,5 @@ aws ssm start-session --region us-east-1 --target $(aws ec2 describe-instances -
 
 
 ## Resources
-https://docs.aws.amazon.com/systems-manager/latest/userguide/quick-setup-host-management.html
-https://docs.aws.amazon.com/systems-manager/latest/userguide/setup-create-vpc.html#sysman-setting-up-vpc-create
+- https://docs.aws.amazon.com/systems-manager/latest/userguide/quick-setup-host-management.html
+- https://docs.aws.amazon.com/systems-manager/latest/userguide/setup-create-vpc.html#sysman-setting-up-vpc-create
